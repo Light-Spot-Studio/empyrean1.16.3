@@ -16,9 +16,10 @@
 
 成员列表：
 
-mod开发：笺舟(工作室长)、冰凌
+mod开发：笺舟(工作室长)、冰凌sama
 
-美工：贴图：VScode 模型：ChapterII
+美工：
+贴图：VScode 模型：ChapterII
 
 
 
